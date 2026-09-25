@@ -1,8 +1,6 @@
-<h1 align="center">Kaio Bergamo Simões</h1>
+<h1 align="center">Olá, eu sou o Kaio 👋</h1>
 
-<p align="center">
-  Estudante de Engenharia de Software, em busca de uma oportunidade nas áreas de Engenharia de Dados e Desenvolvimento.
-</p>
+<h3 align="center">Estudante de Engenharia de Software | Foco em Engenharia de Dados & Desenvolvimento</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -12,15 +10,17 @@
 
 ---
 
-### Sobre mim
+### 🚀 Sobre mim
 
-Estou no 6º semestre de Engenharia de Software na UNICIVE, com conclusão prevista para 2027. Ao longo do curso venho trabalhando em projetos que passam por back-end, front-end, banco de dados e documentação técnica, geralmente em repositórios compartilhados com outras pessoas.
-
-O projeto que mais me representa hoje é o AutoSlot, um sistema de gestão de estacionamento construído com Clean Architecture — foi onde mais me aprofundei em arquitetura, autenticação e deploy.
+- 🎓 Cursando o 6º semestre de **Engenharia de Software** na UNICIVE — previsão de conclusão em **2027**
+- 🔍 Em busca de uma vaga nas áreas de **Engenharia de Dados** e **Desenvolvimento**
+- 🛠️ Já trabalhei em projetos acadêmicos que envolvem back-end, front-end, banco de dados e documentação técnica
+- 🅰️ Meu projeto de destaque é o **AutoSlot**, um sistema full-stack de gestão de estacionamento com Clean Architecture
+- 🌱 Sempre aprendendo algo novo e evoluindo como desenvolvedor
 
 ---
 
-### Stack e ferramentas
+### 💻 Stack e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -39,18 +39,27 @@ O projeto que mais me representa hoje é o AutoSlot, um sistema de gestão de es
 
 ---
 
-### Projeto em destaque
+### 📌 Projeto em destaque
 
-<a href="https://github.com/KaioCBS/AutoSlot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KaioCBS&repo=AutoSlot&theme=default" />
-</a>
+**[AutoSlot](https://github.com/KaioCBS/AutoSlot)** — sistema full-stack de gestão de estacionamento, construído com Clean Architecture (API, Application, Domain, Infrastructure). Autenticação JWT, hash de senha com BCrypt, gestão de reservas, processamento de pagamentos, dashboard e relatórios financeiros. Deploy feito com Docker multi-stage na Railway, banco gerenciado no Supabase.
 
-<br clear="left"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-### Métricas dinâmicas
+### 📊 Métricas dinâmicas
 
 <p align="center">
   <img src="https://github.com/KaioCBS/KaioCBS/blob/main/github-metrics.svg" alt="Métricas do GitHub" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaioCBS&label=Visualizações%20do%20perfil&color=blue&style=flat" alt="Visualizações do perfil" />
 </p>
