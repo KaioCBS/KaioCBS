@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Kaio 👋</h1>
+<h1 align="center"> Kaio Bergamo</h1>
 
 <h3 align="center">Estudante de Engenharia de Software | Foco em Engenharia de Dados & Desenvolvimento</h3>
 
@@ -10,13 +10,13 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-- 🎓 Cursando o 6º semestre de **Engenharia de Software** na UNICIVE — previsão de conclusão em **2027**
-- 🔍 Em busca de uma vaga nas áreas de **Engenharia de Dados** e **Desenvolvimento**
-- 🛠️ Já trabalhei em projetos acadêmicos que envolvem back-end, front-end, banco de dados e documentação técnica
-- 🅰️ Meu projeto de destaque é o **AutoSlot**, um sistema full-stack de gestão de estacionamento com Clean Architecture
-- 🌱 Sempre aprendendo algo novo e evoluindo como desenvolvedor
+-  Cursando o 6º semestre de **Engenharia de Software** na UNICIVE — previsão de conclusão em **2027**
+-  Em busca de uma vaga nas áreas de **Engenharia de Dados** e **Desenvolvimento**
+-  Já trabalhei em projetos acadêmicos que envolvem back-end, front-end, banco de dados e documentação técnica
+-  Meu projeto de destaque é o **AutoSlot**, um sistema full-stack de gestão de estacionamento com Clean Architecture
+-  Sempre aprendendo algo novo e evoluindo como desenvolvedor
 
 ---
 
